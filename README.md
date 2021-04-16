@@ -1,0 +1,2 @@
+# NewaAtGlance
+News app
